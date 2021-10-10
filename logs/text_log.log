@@ -1,0 +1,26 @@
+17:41:27.583 [main] INFO  by.task.kukjan.service.impl.ArrayServiceImplement - The sum of the array elements = 20
+17:41:27.594 [main] INFO  by.task.kukjan.service.impl.ArrayServiceImplement - The sum of the array elements = 20
+17:41:27.594 [main] INFO  by.task.kukjan.service.impl.ArrayServiceImplement - Number of positive array elements = 4
+17:41:27.596 [main] INFO  by.task.kukjan.service.impl.ArrayServiceImplement - Number of positive array elements = 4
+17:41:27.596 [main] INFO  by.task.kukjan.service.impl.ArrayServiceImplement - Number of negative array elements = 0
+17:41:27.597 [main] INFO  by.task.kukjan.service.impl.ArrayServiceImplement - Number of negative array elements = 0
+17:46:19.399 [main] INFO  by.task.kukjan.reader.impl.ArrayReaderImpl - Correct line was read in file:
+17:46:19.431 [main] INFO  by.task.kukjan.service.impl.ArrayServiceImplement - Minimum array element: 1
+17:46:19.433 [main] INFO  by.task.kukjan.service.impl.ArrayServiceImplement - Maximum array element: 9
+17:46:19.434 [main] INFO  by.task.kukjan.service.impl.ArrayServiceImplement - Maximum array element: 9
+17:46:19.434 [main] INFO  by.task.kukjan.service.impl.ArrayServiceImplement - Maximum array element: 9
+17:46:19.434 [main] INFO  by.task.kukjan.service.impl.ArrayServiceImplement - The array after swapping negative elements to positive is [7, 3, 1, 9]
+17:46:19.438 [main] INFO  by.task.kukjan.service.impl.ArrayServiceImplement - The array after swapping negative elements to positive is [7, 3, 1, 9]
+17:46:19.438 [main] INFO  by.task.kukjan.service.impl.ArrayServiceImplement - The sum of the array elements = 20
+17:46:19.440 [main] INFO  by.task.kukjan.service.impl.ArrayServiceImplement - The average value of array elements = 5.0
+17:46:19.442 [main] INFO  by.task.kukjan.service.impl.ArrayServiceImplement - The average value of array elements = 5.0
+17:46:19.442 [main] INFO  by.task.kukjan.service.impl.ArrayServiceImplement - The sum of the array elements = 20
+17:46:19.443 [main] INFO  by.task.kukjan.service.impl.ArrayServiceImplement - The sum of the array elements = 20
+17:46:19.443 [main] INFO  by.task.kukjan.service.impl.ArrayServiceImplement - Number of positive array elements = 4
+17:46:19.444 [main] INFO  by.task.kukjan.service.impl.ArrayServiceImplement - Number of positive array elements = 4
+17:46:19.444 [main] INFO  by.task.kukjan.service.impl.ArrayServiceImplement - Number of negative array elements = 0
+17:46:19.445 [main] INFO  by.task.kukjan.service.impl.ArrayServiceImplement - Number of negative array elements = 0
+17:46:19.445 [main] INFO  by.task.kukjan.service.impl.ArraySortServiceImplement - Bubble sort finished. Sorted array is: [1, 3, 7, 9]
+17:46:19.445 [main] INFO  by.task.kukjan.service.impl.ArraySortServiceImplement - Insertion sort finished. Sorted array is: [1, 3, 7, 9]
+17:46:19.445 [main] INFO  by.task.kukjan.service.impl.ArraySortServiceImplement - Shell sort finished. Sorted array is: [1, 3, 7, 9]
+17:46:19.447 [main] INFO  by.task.kukjan.service.impl.ArraySortServiceImplement - Sort finished. Sorted array is: [1, 3, 7, 9]
